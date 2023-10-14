@@ -1,0 +1,8 @@
+# node modules
+node_modules
+
+# publice
+public
+
+.env
+package-lock
